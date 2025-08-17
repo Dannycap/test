@@ -306,7 +306,7 @@ def main() -> None:
 
     st.title("Efficient Frontier Explorer")
     st.write(
-        "Build and explore efficient frontier portfolios ."
+        "Explore the efficient frontier of portfolios using your own data or sample data."
     )
 
     # Sidebar for user inputs
