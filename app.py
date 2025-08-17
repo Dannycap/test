@@ -306,7 +306,7 @@ def main() -> None:
 
     st.title("Efficient Frontier Explorer")
     st.write(
-        "Build and explore efficient frontier portfolios using the S&P 500 dataset."
+        "Build and explore efficient frontier portfolios ."
     )
 
     # Sidebar for user inputs
